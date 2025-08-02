@@ -1,0 +1,10 @@
+
+# Binaries
+main
+
+# Configuration files
+nodeadm.yaml
+
+#Temporary files
+*.tmp
+*.log
